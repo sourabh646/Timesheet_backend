@@ -1,0 +1,45 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [47.2444, 8.4959]
+        },
+        "properties": {
+          "name": "vinod",
+          "type": "EV Charger",
+          "power": "50kW",
+          "availability": "Available"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [6.1432, 46.2044]
+        },
+        "properties": {
+          "name": "sourabh",
+          "type": "EV Charger",
+          "power": "150kW",
+          "availability": "In Use"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [7.4474, 46.9481]
+        },
+        "properties": {
+          "name": "Bern Charger 1",
+          "type": "EV Charger",
+          "power": "22kW",
+          "availability": "Available"
+        }
+      }
+    ]
+  }
+  
