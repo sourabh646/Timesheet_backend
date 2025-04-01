@@ -1,0 +1,19 @@
+<kml xmlns="http://www.opengis.net/kml/2.2"><Document>
+<Placemark>
+<name>vinod</name><ExtendedData>
+  <Data name="type"><value>EV Charger</value></Data>
+  <Data name="power"><value>50kW</value></Data>
+  <Data name="availability"><value>Available</value></Data></ExtendedData>
+  <Point><coordinates>47.2444,8.4959</coordinates></Point></Placemark>
+<Placemark>
+<name>sourabh</name><ExtendedData>
+  <Data name="type"><value>EV Charger</value></Data>
+  <Data name="power"><value>150kW</value></Data>
+  <Data name="availability"><value>In Use</value></Data></ExtendedData>
+  <Point><coordinates>6.1432,46.2044</coordinates></Point></Placemark>
+<Placemark>
+<name>Bern Charger 1</name><ExtendedData>
+  <Data name="type"><value>EV Charger</value></Data>
+  <Data name="power"><value>22kW</value></Data>
+  <Data name="availability"><value>Available</value></Data></ExtendedData>
+  <Point><coordinates>7.4474,46.9481</coordinates></Point></Placemark></Document></kml>
